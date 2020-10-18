@@ -1,5 +1,4 @@
 
-<style>
 * {
   margin: 0;
   padding: 0;
@@ -46,7 +45,7 @@ button.media-control-button.media-control-icon.stopped svg{height:16px!important
 .level_selector[data-level-selector] li:nth-child(1) a{font-size:0}
 .level_selector[data-level-selector] li:nth-child(1) a:before{content:'Auto';font-size:13px}
 .spinner-three-bounce[data-spinner]>div{display:none!important}
-</style>
+
 body {
     overflow: hidden;
     height: 100%;
